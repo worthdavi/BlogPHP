@@ -1,6 +1,6 @@
 <section>
     <header class="major">
-        <h2>Erat lacinia</h2>
+        <h2>Destaques</h2>
     </header>
     <div class="features">
         <article>
