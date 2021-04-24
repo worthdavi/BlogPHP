@@ -1,4 +1,4 @@
-<!-- Importando variáveis -->
+<!-- Importando variáveisss -->
 <?php
 	include_once("config/config.php")
 ?>
